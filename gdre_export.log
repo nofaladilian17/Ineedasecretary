@@ -1,0 +1,448 @@
+GDRE Tools v2.6.3
+Windows 10.0.19045, ANGLE (Intel, Intel(R) HD Graphics (0x00000106) Direct3D11 vs_4_1 ps_4_1, D3D11-9.17.10.4459), opengl3_angle
+Opening file: D:/New folder/I need a Secretary.exe
+WARNING: Duplicate IDs found in cache:
+  uid://fy14scbokp5b -> res://VFX/Textures/T_VFX_Z70.png
+    Replacing with: res://VFX Proyectil/Textures/T_VFX_Z70.png
+  uid://kmkp2rkelvxw -> res://VFXElementary/textures/T_Noise1_tiled.png
+    Replacing with: res://VFX healing_proteccion/textures/T_Noise1_tiled.png
+  uid://uh8xp5ulkqx1 -> res://VFXTornado/textures/T_smoke_bb1fa.png
+    Replacing with: res://VFXFire/textures/T_smoke_bb1fa.png
+  uid://cxsmx407d722t -> res://VFXStone/textures/T_Noise_02.PNG
+    Replacing with: res://VFXElementary/textures/T_NP41.PNG
+  uid://bck7m1hnsymja -> res://VFX/Shaders/s_simple_blink_unlit_fc.tres
+    Replacing with: res://VFX healing_proteccion/shaders/s_simple_blink_unlit_fc.tres
+  uid://sfqnk8pph4px -> res://VFX/Textures/T_VFX_Noise_075.png
+    Replacing with: res://VFXStone/textures/T_VFX_Noise_075.png
+  uid://1q6lsrjyrqr1 -> res://VFXElementary/shaders/s_simple_pfc.tres
+    Replacing with: res://VFX healing_proteccion/shaders/s_simple_pfc.tres
+  uid://b3jjlypqvx2yt -> res://VFXStone/textures/T_wavesKI96.png
+    Replacing with: res://VFXElementary/textures/T_wavesKI96.png
+  uid://dd1pmd840fclm -> res://VFX/Textures/T_NHU85.png
+    Replacing with: res://VFXTornado/textures/T_Noise_5K9p.png
+  uid://egg2rvkxhhhp -> res://VFXFire/textures/curves/c_fireringed1.tres
+    Replacing with: res://VFXElementary/textures/curves/c_fireringed1.tres
+  uid://ooqdado48egc -> res://VFX Proyectil/Objects/sm_ring_1.obj
+    Replacing with: res://VFXStone/objects/sm_ring_1.obj
+  uid://fp0tqfa1tfb -> res://VFX Proyectil/Textures/T_VFX_Noise_a13.PNG
+    Replacing with: res://VFX/Textures/T_VFX_Noise_a13.PNG
+  uid://8l1m4bj1kmvu -> res://VFXTornado/textures/T_Noise_993Ri.png
+    Replacing with: res://VFXFire/textures/T_Noise_4eb1.png
+  uid://weruu5m2fm8b -> res://VFX Proyectil/Shaders/s_FireHead_B.tres
+    Replacing with: res://VFXStone/shaders/s_FireHead_B.tres
+  uid://dai884pwf0uti -> res://VFXTornado/objects/sm_cloud5cp.obj
+    Replacing with: res://VFXFire/objects/sm_cloud5cp.obj
+  uid://lkuaxmotust5 -> res://VFXTornado/textures/T_VFX_FireBall_s1_alpha.jpg
+    Replacing with: res://VFX Proyectil/Textures/T_VFX_FireBall_s1_alpha.jpg
+  uid://cquuhelhycb4i -> res://VFX healing_proteccion/textures/T_VFX_Noise_11.PNG
+    Replacing with: res://VFXElementary/textures/T_VFX_Noise_11.PNG
+  uid://dma3eg07dotv7 -> res://VFX/Shaders/s_PolarPanning_manualD.tres
+    Replacing with: res://VFX healing_proteccion/shaders/s_PolarPanning_manualD.tres
+  uid://c58fuw3g11jq0 -> res://VFXElementary/textures/T_PerlinNoise_Tiled11_inv.png
+    Replacing with: res://VFXTornado/textures/T_PerlinNoise_Tiled11_inv.png
+  uid://cqn0iqbcvqk0u -> res://VFX Proyectil/Shaders/s_Disolver_advanced.tres
+    Replacing with: res://VFXElementary/shaders/s_Disolver_advanced.tres
+  uid://b6xryu8r5hcrf -> res://VFX Blood/objects/sm_coneblood.obj
+    Replacing with: res://VFXFire/objects/sm_coneblood.obj
+  uid://dgptdu8p2bg27 -> res://VFXTornado/Misc/textures/T_checker21.jpg
+    Replacing with: res://VFXFire/Misc/textures/T_checker21.jpg
+  uid://bigm2ervbp21n -> res://VFX healing_proteccion/objects/sm_ring7.obj
+    Replacing with: res://VFX/Objects/sm_ring7.obj
+  uid://crv8lgwcdisd7 -> res://VFX healing_proteccion/textures/T_vfx_hit122.jpg
+    Replacing with: res://VFXStone/textures/T_vfx_hit122.jpg
+  uid://c0awlx26qatxa -> res://VFX healing_proteccion/textures/T_GW_WaterNormal_01_b.PNG
+    Replacing with: res://VFXStone/textures/T_GW_WaterNormal_01_b.PNG
+  uid://cxs8yy4k6k3uw -> res://VFXElementary/shaders/s_stylized_smoke_t1_p.tres
+    Replacing with: res://VFXStone/shaders/s_stylized_smoke_t1_p.tres
+  uid://codcx1oq7ggxy -> res://VFXStone/shaders/s_master_explosion.tres
+    Replacing with: res://VFX/Shaders/s_master_explosion.tres
+  uid://cbs6u7qd6xpp0 -> res://VFXStone/objects/sm_smoke1.obj
+    Replacing with: res://VFXElementary/objects/sm_smoke1.obj
+  uid://doh03dwac2t7s -> res://VFXStone/textures/T_VFX_1spark123.jpg
+    Replacing with: res://VFX Proyectil/Textures/T_VFX_1spark123.jpg
+  uid://bmi0bbugbvf62 -> res://VFX healing_proteccion/objects/sm_muzzle_crossplanes.obj
+    Replacing with: res://VFX Blood/objects/sm_muzzle_crossplanes.obj
+  uid://drbefe8jw3n21 -> res://VFXElementary/shaders/s_Disolver_Treshold_ds.tres
+    Replacing with: res://VFXTornado/shaders/s_Disolver_Treshold_ds.tres
+  uid://biqgxpwwr01ye -> res://VFXFire/textures/T_CloudNoise_Tiled.png
+    Replacing with: res://VFXStone/textures/T_CloudNoise_Tiled.png
+  uid://p882hvpsbqve -> res://VFXElementary/textures/T_VFX_spark44.jpg
+    Replacing with: res://VFXTornado/textures/T_VFX_spark44.jpg
+  uid://cysmp3e3kel3y -> res://VFXElementary/textures/T_VFX_N35.png
+    Replacing with: res://VFX Blood/textures/T_VFX_N35.png
+  uid://dsi0gdw8k65c1 -> res://VFXStone/textures/T_VFX_WindNoise1.png
+    Replacing with: res://VFX healing_proteccion/textures/T_VFX_WindNoise1.png
+  uid://weruu5m2fm8b -> res://VFXStone/shaders/s_FireHead_B.tres
+    Replacing with: res://VFX/Shaders/s_FireHead_B.tres
+  uid://ch53yvmy4g8v3 -> res://VFXElementary/textures/T_cracks35.png
+    Replacing with: res://VFXStone/textures/T_cracks35.png
+  uid://lkuaxmotust5 -> res://VFX Proyectil/Textures/T_VFX_FireBall_s1_alpha.jpg
+    Replacing with: res://VFXFire/textures/T_VFX_FireBall_s1_alpha.jpg
+  uid://dgptdu8p2bg27 -> res://VFXFire/Misc/textures/T_checker21.jpg
+    Replacing with: res://VFX Blood/Misc/textures/T_checker21.jpg
+  uid://citnc32hcv51f -> res://VFXStone/textures/T_VFX_Glow_1.PNG
+    Replacing with: res://VFXFire/textures/T_VFX_Glow_1.PNG
+  uid://fy14scbokp5b -> res://VFX Proyectil/Textures/T_VFX_Z70.png
+    Replacing with: res://VFXTornado/textures/T_VFX_Z70.png
+  uid://cf0wwjbguxdp -> res://VFXTornado/textures/T_VFX_Ex1d.jpg
+    Replacing with: res://VFXStone/textures/T_VFX_Ex1d.jpg
+  uid://blb7a2rnt06sr -> res://VFX/Shaders/s_Trail_Fire_shader.tres
+    Replacing with: res://VFX Proyectil/Shaders/s_Trail_Fire_shader.tres
+  uid://c58fuw3g11jq0 -> res://VFXTornado/textures/T_PerlinNoise_Tiled11_inv.png
+    Replacing with: res://VFXStone/textures/T_PerlinNoise_Tiled11_inv.png
+  uid://dd1pmd840fclm -> res://VFXTornado/textures/T_Noise_5K9p.png
+    Replacing with: res://VFXStone/textures/T_NoiseAN75.png
+  uid://3qsqjj5denl7 -> res://VFX/Textures/T_NJO1.png
+    Replacing with: res://VFXFire/textures/T_NJO1.png
+  uid://bheudhnmjwpme -> res://VFXElementary/textures/T_VFX_Noise_14.PNG
+    Replacing with: res://VFX healing_proteccion/textures/T_VFX_Noise_14.PNG
+  uid://crv8lgwcdisd7 -> res://VFXStone/textures/T_vfx_hit122.jpg
+    Replacing with: res://VFX/Textures/T_vfx_hit122.jpg
+  uid://dbolhruq43rtu -> res://VFX Blood/textures/T_Blood_bulb_UJ1_testtyyxx.png
+    Replacing with: res://VFXFire/textures/T_Blood_bulb_UJ1_testtyyxx.png
+  uid://cxs8yy4k6k3uw -> res://VFXStone/shaders/s_stylized_smoke_t1_p.tres
+    Replacing with: res://VFXFire/shaders/s_stylized_smoke_t1_p.tres
+  uid://uims3i06gibv -> res://VFXShield/shaders/s_distortion_wLine.tres
+    Replacing with: res://VFX healing_proteccion/shaders/s_distortion_wLine.tres
+  uid://cf0wwjbguxdp -> res://VFXStone/textures/T_VFX_Ex1d.jpg
+    Replacing with: res://VFXFire/textures/T_VFX_Ex1d.jpg
+  uid://8fk5k1sbqvwh -> res://VFX Proyectil/Textures/T_VFX_Noise_019.png
+    Replacing with: res://VFX/Textures/T_VFX_Noise_019.png
+  uid://wfv84ppram2u -> res://VFX Blood/objects/sm_plane_cross1a.obj
+    Replacing with: res://VFX Proyectil/Objects/sm_plane_cross1a.obj
+  uid://bheudhnmjwpme -> res://VFX healing_proteccion/textures/T_VFX_Noise_14.PNG
+    Replacing with: res://VFXTornado/textures/T_VFX_Noise_14.PNG
+  uid://babtk5atgncx -> res://VFX healing_proteccion/textures/T_WindWaveAnim.png
+    Replacing with: res://VFXStone/textures/T_WindWaveAnim.png
+  uid://5mdduid72xhr -> res://VFXTornado/textures/T_VFX_Noise_12.PNG
+    Replacing with: res://VFX Proyectil/Textures/T_VFX_Noise_12.PNG
+  uid://reunn547okbt -> res://VFXElementary/textures/T_Cracks142.png
+    Replacing with: res://VFXFire/textures/T_Cracks142.png
+  uid://bqjld35nq5lrl -> res://VFX Proyectil/Textures/T_VFX_Noise_531.png
+    Replacing with: res://VFXElementary/textures/T_VFX_Noise_531.png
+  uid://ciqcy6b56itlr -> res://VFX healing_proteccion/shaders/s_smoketypeG4.tres
+    Replacing with: res://VFXStone/shaders/s_smoketypeG4.tres
+  uid://c1660p2rs4lfs -> res://VFX/Shaders/s_ProjectileSoft_B_Disp.tres
+    Replacing with: res://VFX Proyectil/Shaders/s_ProjectileSoft_B_Disp.tres
+  uid://vgiyxw3yneoh -> res://VFX healing_proteccion/objects/sm_cylinder_based.obj
+    Replacing with: res://VFX/Objects/sm_cylinder_based.obj
+  uid://c3dmwtnblg633 -> res://VFX Proyectil/Shaders/s_Fire_Special_p.tres
+    Replacing with: res://VFXStone/shaders/s_Fire_Special_p.tres
+  uid://d2v6ytf52lvyo -> res://VFXFire/objects/sm_sphere_A1_diagonal.obj
+    Replacing with: res://VFXElementary/objects/sm_sphere_A1_diagonal.obj
+  uid://dwcusyt04617u -> res://VFXFire/objects/sm_debris_1.obj
+    Replacing with: res://VFXStone/objects/sm_debris_1.obj
+  uid://bmi0bbugbvf62 -> res://VFX Blood/objects/sm_muzzle_crossplanes.obj
+    Replacing with: res://VFXStone/objects/sm_muzzle_crossplanes.obj
+  uid://1q6lsrjyrqr1 -> res://VFX healing_proteccion/shaders/s_simple_pfc.tres
+    Replacing with: res://VFXStone/shaders/s_simple_pfc.tres
+  uid://c7gbxglqs3lqc -> res://VFXStone/textures/T_wispy_smoke_K1s.png
+    Replacing with: res://VFXFire/textures/T_wispy_smoke_K1s.png
+  uid://dra25la2m0shx -> res://VFX healing_proteccion/textures/T_VFX_Flare_2.PNG
+    Replacing with: res://VFX/Textures/T_VFX_Flare_2.PNG
+  uid://5mdduid72xhr -> res://VFX Proyectil/Textures/T_VFX_Noise_12.PNG
+    Replacing with: res://VFX Blood/textures/T_VFX_Noise_12.PNG
+  uid://dbbq3uffx4aam -> res://VFXStone/textures/T_VFX_RoundSmoke72.png
+    Replacing with: res://VFXTornado/textures/T_VFX_RoundSmoke72.png
+  uid://sfqnk8pph4px -> res://VFXStone/textures/T_VFX_Noise_075.png
+    Replacing with: res://VFX Proyectil/Textures/T_VFX_Noise_075.png
+  uid://cysmp3e3kel3y -> res://VFX Blood/textures/T_VFX_N35.png
+    Replacing with: res://VFXFire/textures/T_VFX_N35.png
+  uid://fp0tqfa1tfb -> res://VFX/Textures/T_VFX_Noise_a13.PNG
+    Replacing with: res://VFXElementary/textures/T_VFX_Noise_a13.PNG
+  uid://bgquhur2newuc -> res://VFXTornado/shaders/s_PolarPanning.tres
+    Replacing with: res://VFX/Shaders/s_PolarPanning.tres
+  uid://8fh3gk5o1dby -> res://VFXStone/textures/T_VFX_Noise21d_tiled.png
+    Replacing with: res://VFX/Textures/T_VFX_Noise21d_tiled.png
+  uid://ceq0q2hrh3ppu -> res://VFX Proyectil/Textures/gradients/g2d_typeA.tres
+    Replacing with: res://VFX/Textures/gradients/g2d_typeA.tres
+  uid://bgquhur2newuc -> res://VFX/Shaders/s_PolarPanning.tres
+    Replacing with: res://VFXStone/shaders/s_PolarPanning.tres
+  uid://c0awlx26qatxa -> res://VFXStone/textures/T_GW_WaterNormal_01_b.PNG
+    Replacing with: res://VFXFire/textures/T_GW_WaterNormal_01_b.PNG
+  uid://dwl452ipbhn5x -> res://VFX healing_proteccion/shaders/s_PolarPanning_fc.tres
+    Replacing with: res://VFX/Shaders/s_PolarPanning_fc.tres
+  uid://cysmp3e3kel3y -> res://VFXFire/textures/T_VFX_N35.png
+    Replacing with: res://VFX/Textures/T_VFX_N35.png
+  uid://4brcnxrpup27 -> res://VFX/Textures/T_FireTrail.jpg
+    Replacing with: res://VFX Proyectil/Textures/T_FireTrail.jpg
+  uid://bgquhur2newuc -> res://VFXStone/shaders/s_PolarPanning.tres
+    Replacing with: res://VFX healing_proteccion/shaders/s_PolarPanning.tres
+  uid://1q6lsrjyrqr1 -> res://VFXStone/shaders/s_simple_pfc.tres
+    Replacing with: res://VFX/Shaders/s_simple_pfc.tres
+  uid://nyyc5vq2e8a8 -> res://VFXFire/textures/T_VFX_Noise_44xainv.png
+    Replacing with: res://VFXStone/textures/T_VFX_Noise_44xainv.png
+  uid://vj1fkfmxlojo -> res://VFXStone/textures/T_FogSheetCloud.PNG
+    Replacing with: res://VFX/Textures/T_FogSheetCloud.PNG
+  uid://b013b0txvomqg -> res://VFXStone/textures/T_VFX_Noise_5.PNG
+    Replacing with: res://VFXElementary/textures/T_VFX_Noise_5.PNG
+  uid://dkujiwg37cnsk -> res://VFXElementary/textures/T_NHU85.png
+    Replacing with: res://VFX healing_proteccion/textures/T_NHU85.png
+  uid://ckl4bjtubskkh -> res://VFXTornado/textures/T_Noise_Op674.png
+    Replacing with: res://VFXStone/textures/T_Noise_qp06.png
+  uid://7606c38b7e35 -> res://VFX healing_proteccion/shaders/s_Disolver_advanced_D_p.tres
+    Replacing with: res://VFX/Shaders/s_Disolver_advanced_D_p.tres
+  uid://c0j6r3drrpr3x -> res://VFXFire/textures/T_cracks35_emisivex.png
+    Replacing with: res://VFXElementary/textures/T_cracks35_emisivex.png
+  uid://dkujiwg37cnsk -> res://VFX healing_proteccion/textures/T_NHU85.png
+    Replacing with: res://VFX Blood/textures/T_NHU85.png
+  uid://8fh3gk5o1dby -> res://VFX/Textures/T_VFX_Noise21d_tiled.png
+    Replacing with: res://VFX Proyectil/Textures/T_VFX_Noise21d_tiled.png
+  uid://biqgxpwwr01ye -> res://VFXStone/textures/T_CloudNoise_Tiled.png
+    Replacing with: res://VFX Blood/textures/CloudNoise_Tiled.png
+  uid://bir7usclykamj -> res://VFX Proyectil/Shaders/s_simple_p.tres
+    Replacing with: res://VFXStone/shaders/s_simple_p.tres
+  uid://byrtrgjle8g8b -> res://VFX healing_proteccion/shaders/s_simple_disolver3_ds.tres
+    Replacing with: res://VFXTornado/shaders/s_simple_disolver3_ds.tres
+  uid://dacehiod2qquj -> res://VFX healing_proteccion/shaders/s_aura_cylinder_p.tres
+    Replacing with: res://VFXElementary/shaders/s_aura_cylinder_p.tres
+  uid://dma3eg07dotv7 -> res://VFX healing_proteccion/shaders/s_PolarPanning_manualD.tres
+    Replacing with: res://VFXElementary/shaders/s_PolarPanning_manualD.tres
+  uid://dkujiwg37cnsk -> res://VFX Blood/textures/T_NHU85.png
+    Replacing with: res://VFXFire/textures/T_NHU85.png
+  uid://covtvml0csqrr -> res://VFX Blood/textures/T_MarbleNoise_tiled.png
+    Replacing with: res://VFXElementary/textures/T_MarbleNoise_tiled.png
+  uid://ch53yvmy4g8v3 -> res://VFXStone/textures/T_cracks35.png
+    Replacing with: res://VFXFire/textures/T_cracks35.png
+  uid://dwcusyt04617u -> res://VFXStone/objects/sm_debris_1.obj
+    Replacing with: res://VFXElementary/objects/sm_debris_1.obj
+  uid://x204srgh33o -> res://VFXElementary/textures/T_circle_transparent1.png
+    Replacing with: res://VFXFire/textures/T_circle_transparent1.png
+  uid://8fh3gk5o1dby -> res://VFX Proyectil/Textures/T_VFX_Noise21d_tiled.png
+    Replacing with: res://VFX Blood/textures/T_VFX_Noise21d_tiled.png
+  uid://dr4k127px7kkc -> res://VFXStone/shaders/s_Disolver_Treshold_masked.tres
+    Replacing with: res://VFXElementary/shaders/s_Disolver_Treshold_masked.tres
+  uid://7qxbf5xhof0h -> res://VFX healing_proteccion/objects/sm_sphere_A1.obj
+    Replacing with: res://VFX Blood/objects/sm_sphere_A1.obj
+  uid://cpq7r88qokqyt -> res://VFXFire/objects/sm_shockwaveW5.obj
+    Replacing with: res://VFX healing_proteccion/objects/sm_shockwaveW5.obj
+  uid://dgptdu8p2bg27 -> res://VFX Blood/Misc/textures/T_checker21.jpg
+    Replacing with: res://VFXStone/Misc/textures/T_checker21.jpg
+  uid://citnc32hcv51f -> res://VFXFire/textures/T_VFX_Glow_1.PNG
+    Replacing with: res://VFXElementary/textures/T_VFX_Glow_1.PNG
+  uid://cxsmx407d722t -> res://VFXElementary/textures/T_NP41.PNG
+    Replacing with: res://VFX/Textures/T_NP41.PNG
+  uid://jlp4ta6eaw27 -> res://VFX healing_proteccion/objects/sm_plane_cross1a_thin.obj
+    Replacing with: res://VFXFire/objects/sm_plane_cross1a_thin.obj
+  uid://3qsqjj5denl7 -> res://VFXFire/textures/T_NJO1.png
+    Replacing with: res://VFX Blood/textures/T_NJO1.png
+  uid://b28qeeghrupsv -> res://VFX healing_proteccion/shaders/s_basic_disolve_p.tres
+    Replacing with: res://VFX Proyectil/Shaders/s_basic_disolve_p.tres
+  uid://ct4uygs7cju6p -> res://VFXFire/textures/T_NKQ443.png
+    Replacing with: res://VFXElementary/textures/T_NKQ443.png
+  uid://dv6fsjgo3oep8 -> res://VFX Blood/textures/T_Blood_Leash_FE1.png
+    Replacing with: res://VFXFire/textures/T_Blood_Leash_FE1.png
+  uid://brnp67jnwwro6 -> res://VFX Blood/textures/T_smoke_K97.png
+    Replacing with: res://VFXFire/textures/T_smoke_K97.png
+  uid://cudce0x8gpu7m -> res://VFXStone/shaders/s_single_masked_p.tres
+    Replacing with: res://VFX Proyectil/Shaders/s_single_masked_p.tres
+  uid://brnp67jnwwro6 -> res://VFXFire/textures/T_smoke_K97.png
+    Replacing with: res://VFX/Textures/T_smoke_K97.png
+  uid://sibqqfceng5c -> res://VFXElementary/shaders/s_Disolver2.tres
+    Replacing with: res://VFXTornado/shaders/s_Disolver2.tres
+  uid://brnp67jnwwro6 -> res://VFX/Textures/T_smoke_K97.png
+    Replacing with: res://VFX healing_proteccion/textures/T_smoke_K97.png
+  uid://nyyc5vq2e8a8 -> res://VFXStone/textures/T_VFX_Noise_44xainv.png
+    Replacing with: res://VFXElementary/textures/T_VFX_Noise_44xainv.png
+  uid://bjoly6p7083m2 -> res://VFXElementary/objects/sm_cyclinderTopped42.obj
+    Replacing with: res://VFXFire/objects/sm_cyclinderTopped42.obj
+  uid://du4o44wboryvw -> res://VFXFire/textures/T_Noise_001R.png
+    Replacing with: res://VFXTornado/textures/T_Noise_001R.png
+  uid://cvqtg54f3egrb -> res://VFXStone/shaders/s_Disolver_Treshold.tres
+    Replacing with: res://VFXElementary/shaders/s_Disolver_Treshold.tres
+  uid://dgptdu8p2bg27 -> res://VFXStone/Misc/textures/T_checker21.jpg
+    Replacing with: res://VFXElementary/Misc/textures/T_checker21.jpg
+  uid://bsopqvpvnymkk -> res://VFX healing_proteccion/textures/T_Blood_Puddle2411.png
+    Replacing with: res://VFX Blood/textures/T_Blood_Puddle2411.png
+  uid://d0ilo60b4vudy -> res://VFX Proyectil/Textures/T_FireTrail_Desat.PNG
+    Replacing with: res://VFXFire/textures/T_FireTrail_Desat.PNG
+  uid://cwaobmpq7crsa -> res://VFX Blood/textures/T_NoiseNormal_B.PNG
+    Replacing with: res://VFXFire/textures/T_NoiseNormal_B.PNG
+  uid://dsi0gdw8k65c1 -> res://VFX healing_proteccion/textures/T_VFX_WindNoise1.png
+    Replacing with: res://VFXElementary/textures/T_VFX_WindNoise1.png
+  uid://bpkup3eluevcq -> res://VFXFire/textures/T_VFX_hit22.jpg
+    Replacing with: res://VFX Proyectil/Textures/T_VFX_hit22.jpg
+  uid://btejun1ftc2wu -> res://VFXStone/shaders/s_circledExpansive_p.tres
+    Replacing with: res://VFXElementary/shaders/s_circledExpansive_p.tres
+  uid://yhjcyu7ajofq -> res://VFXElementary/textures/T_VFX_Noise_j035.png
+    Replacing with: res://VFX Proyectil/Textures/T_VFX_Noise_j035.png
+  uid://cyvjn3wruj6o2 -> res://VFX Proyectil/Shaders/s_Trail_TypeB.tres
+    Replacing with: res://VFX/Shaders/s_Trail_TypeB.tres
+  uid://sfqnk8pph4px -> res://VFX Proyectil/Textures/T_VFX_Noise_075.png
+    Replacing with: res://VFX healing_proteccion/textures/T_VFX_Noise_075.png
+  uid://bw86kohsh5kmy -> res://VFX Blood/textures/T_VFX_Noise_4.PNG
+    Replacing with: res://VFXFire/textures/T_VFX_Noise_4.PNG
+  uid://7qxbf5xhof0h -> res://VFX Blood/objects/sm_sphere_A1.obj
+    Replacing with: res://VFXFire/objects/sm_sphere_A1.obj
+  uid://drvyrwkh7ijas -> res://VFXElementary/textures/T_VFX_NK13.png
+    Replacing with: res://VFXTornado/textures/T_VFX_NK13.png
+  uid://br6ut6eugl76n -> res://VFXElementary/objects/sm_sparksphere.obj
+    Replacing with: res://VFXTornado/objects/sm_sparksphere.obj
+  uid://bf1l1noj81h8o -> res://VFX Proyectil/Textures/gradients/g_fireTypeC.tres
+    Replacing with: res://VFX/Textures/gradients/g_fireTypeC.tres
+  uid://625j4lcmn1kr -> res://VFXElementary/textures/T_VFX_Flare67z.jpg
+    Replacing with: res://VFX healing_proteccion/textures/T_VFX_Flare67z.jpg
+  uid://cysmp3e3kel3y -> res://VFX/Textures/T_VFX_N35.png
+    Replacing with: res://VFX healing_proteccion/textures/T_VFX_N35.png
+  uid://lkuaxmotust5 -> res://VFXFire/textures/T_VFX_FireBall_s1_alpha.jpg
+    Replacing with: res://VFXStone/textures/T_VFX_FireBall_s1_alpha.jpg
+  uid://nyyc5vq2e8a8 -> res://VFXElementary/textures/T_VFX_Noise_44xainv.png
+    Replacing with: res://VFX Blood/textures/T_VFX_Noise_44xainv.png
+  uid://buu1yfi8wd1jq -> res://VFXStone/objects/sm_sphere5sft.obj
+    Replacing with: res://VFXFire/objects/sm_sphere5sft.obj
+  uid://ct8qu8sekhktw -> res://VFXFire/Misc/sm_character_base1.obj
+    Replacing with: res://VFX healing_proteccion/Misc/sm_character_base1.obj
+  uid://fp0tqfa1tfb -> res://VFXElementary/textures/T_VFX_Noise_a13.PNG
+    Replacing with: res://VFXTornado/textures/T_VFX_Noise_a13.PNG
+  uid://b44akniah0svb -> res://VFXTornado/textures/T_VFX_smoke_2.jpg
+    Replacing with: res://VFXFire/textures/T_VFX_smoke_2.jpg
+  uid://bitbte7ryrc5l -> res://VFXFire/textures/T_Cracks411a.jpg
+    Replacing with: res://VFXElementary/textures/T_Cracks411a.jpg
+  uid://kmkp2rkelvxw -> res://VFX healing_proteccion/textures/T_Noise1_tiled.png
+    Replacing with: res://VFXFire/textures/T_Noise1_tiled.png
+  uid://7qxbf5xhof0h -> res://VFXFire/objects/sm_sphere_A1.obj
+    Replacing with: res://VFXElementary/objects/sm_sphere_A1.obj
+  uid://b18oh0krlikc -> res://VFXElementary/objects/sm_ring211.obj
+    Replacing with: res://VFXTornado/objects/sm_ring211.obj
+  uid://doogqqu4mdt3 -> res://VFX healing_proteccion/objects/sm_cylinder.obj
+    Replacing with: res://VFXElementary/objects/sm_cylinder.obj
+  uid://dqd6vb4yowvwv -> res://VFX Proyectil/Shaders/s_FireHeader_shader.tres
+    Replacing with: res://VFXFire/shaders/s_FireHeader_shader.tres
+  uid://dynq355483yeq -> res://VFX Blood/textures/T_Blood_Splatter_Kj9.png
+    Replacing with: res://VFXFire/textures/T_Blood_Splatter_Kj9.png
+  uid://bweor6vqcu0t2 -> res://VFXElementary/textures/T_VFX_StarSt51.png
+    Replacing with: res://VFXFire/textures/T_VFX_StarSt51.png
+  uid://dgptdu8p2bg27 -> res://VFXElementary/Misc/textures/T_checker21.jpg
+    Replacing with: res://VFX/Misc/textures/T_checker21.jpg
+  uid://1q6lsrjyrqr1 -> res://VFX/Shaders/s_simple_pfc.tres
+    Replacing with: res://VFXFire/shaders/s_simple_pfc.tres
+  uid://b7sqddmatavpl -> res://VFX/Textures/T_basic1_vfx.PNG
+    Replacing with: res://VFX Proyectil/Textures/T_basic1_vfx.PNG
+  uid://nyyc5vq2e8a8 -> res://VFX Blood/textures/T_VFX_Noise_44xainv.png
+    Replacing with: res://VFX/Textures/T_VFX_Noise_44xainv.png
+  uid://vj1fkfmxlojo -> res://VFX/Textures/T_FogSheetCloud.PNG
+    Replacing with: res://VFXTornado/textures/T_FogSheetCloud.PNG
+  uid://c44g48gk8odif -> res://VFX/Shaders/s_ProjectileSoft_Disp.tres
+    Replacing with: res://VFX Proyectil/Shaders/s_ProjectileSoft_Disp.tres
+  uid://ncbi6cug17fc -> res://VFXTornado/shaders/s_Disolver_Treshold_p_fc.tres
+    Replacing with: res://VFXFire/shaders/s_Disolver_Treshold_p_fc.tres
+  uid://bcl2qy81x1wcj -> res://VFX healing_proteccion/textures/T_VFX_Flare_251.jpg
+    Replacing with: res://VFXFire/textures/T_VFX_Flare_251.jpg
+  uid://sfqnk8pph4px -> res://VFX healing_proteccion/textures/T_VFX_Noise_075.png
+    Replacing with: res://VFXElementary/textures/T_VFX_Noise_075.png
+  uid://bheudhnmjwpme -> res://VFXTornado/textures/T_VFX_Noise_14.PNG
+    Replacing with: res://VFX Blood/textures/T_VFX_Noise_14.PNG
+  uid://ceq0q2hrh3ppu -> res://VFX/Textures/gradients/g2d_typeA.tres
+    Replacing with: res://VFXStone/textures/gradients/g2d_typeA.tres
+  uid://cpqjrilmucb6g -> res://VFX Proyectil/Textures/T_VFX_thunder_texture.png
+    Replacing with: res://VFX/Textures/T_VFX_thunder_texture.png
+  uid://bmtwxnqepurqt -> res://VFX healing_proteccion/objects/sm_cylinder_vulkano2.obj
+    Replacing with: res://VFXElementary/objects/sm_cylinder_vulkano.obj
+  uid://cwf3s787lfb11 -> res://VFXStone/materials/m_floor_default.tres
+    Replacing with: res://VFXTornado/materials/m_floor_default.tres
+  uid://cbs6u7qd6xpp0 -> res://VFXElementary/objects/sm_smoke1.obj
+    Replacing with: res://VFXFire/objects/sm_smoke1.obj
+  uid://cxs8yy4k6k3uw -> res://VFXFire/shaders/s_stylized_smoke_t1_p.tres
+    Replacing with: res://VFXTornado/shaders/s_stylized_smoke_t1_p.tres
+  uid://dsi0gdw8k65c1 -> res://VFXElementary/textures/T_VFX_WindNoise1.png
+    Replacing with: res://VFXTornado/textures/T_VFX_WindNoise1.png
+  uid://b013b0txvomqg -> res://VFXElementary/textures/T_VFX_Noise_5.PNG
+    Replacing with: res://VFXTornado/textures/T_VFX_Noise_5.PNG
+  uid://cf0wwjbguxdp -> res://VFXFire/textures/T_VFX_Ex1d.jpg
+    Replacing with: res://VFX Proyectil/Textures/T_VFX_Ex1d.jpg
+  uid://cpfhbysmf7l0d -> res://VFX healing_proteccion/textures/T_VFX_Noise_3.PNG
+    Replacing with: res://VFXStone/textures/T_VFX_Noise_3.PNG
+  uid://cxsmx407d722t -> res://VFX/Textures/T_NP41.PNG
+    Replacing with: res://VFX Blood/textures/T_NP41.PNG
+  uid://dsi0gdw8k65c1 -> res://VFXTornado/textures/T_VFX_WindNoise1.png
+    Replacing with: res://VFXFire/textures/T_VFX_WindNoise1.png
+  uid://cpq7r88qokqyt -> res://VFX healing_proteccion/objects/sm_shockwaveW5.obj
+    Replacing with: res://VFXStone/objects/sm_shockwaveW5.obj
+  uid://c0awlx26qatxa -> res://VFXFire/textures/T_GW_WaterNormal_01_b.PNG
+    Replacing with: res://VFX Blood/textures/T_GW_WaterNormal_01_b.PNG
+  uid://vgiyxw3yneoh -> res://VFX/Objects/sm_cylinder_based.obj
+    Replacing with: res://VFXElementary/objects/sm_cylinder_based.obj
+  uid://sfqnk8pph4px -> res://VFXElementary/textures/T_VFX_Noise_075.png
+    Replacing with: res://VFXFire/textures/T_VFX_Noise_075.png
+  uid://p882hvpsbqve -> res://VFXTornado/textures/T_VFX_spark44.jpg
+    Replacing with: res://VFX Proyectil/Textures/T_VFX_spark44.jpg
+  uid://brnp67jnwwro6 -> res://VFX healing_proteccion/textures/T_smoke_K97.png
+    Replacing with: res://VFXTornado/textures/T_smoke_K97.png
+  uid://dai884pwf0uti -> res://VFXFire/objects/sm_cloud5cp.obj
+    Replacing with: res://VFXElementary/objects/sm_cloud5cp.obj
+  uid://ipfkv6s0nlet -> res://VFXStone/objects/sm_wavewind1A.obj
+    Replacing with: res://VFX healing_proteccion/objects/sm_wavewind1A.obj
+  uid://yhjcyu7ajofq -> res://VFX Proyectil/Textures/T_VFX_Noise_j035.png
+    Replacing with: res://VFX healing_proteccion/textures/T_VFX_Noise_j035.png
+  uid://covtvml0csqrr -> res://VFXElementary/textures/T_MarbleNoise_tiled.png
+    Replacing with: res://VFX healing_proteccion/textures/T_MarbleNoise_tiled.png
+  uid://6epapgspumdw -> res://VFX healing_proteccion/shaders/s_shield_color_wLine.tres
+    Replacing with: res://VFXShield/shaders/s_shield_color_wLine.tres
+  uid://ch4qcgd8kp1ja -> res://VFX healing_proteccion/shaders/s_simple_pfc_2.tres
+    Replacing with: res://VFX Blood/shaders/s_simple_pfc_2.tres
+  uid://c1t3ptjn34muf -> res://VFXFire/textures/T_VFX_Trail_211.png
+    Replacing with: res://VFXElementary/textures/T_VFX_Trail_211.png
+  uid://2uc18118c5g0 -> res://VFX/Shaders/s_dual_master_dis_fres_ds.tres
+    Replacing with: res://VFXElementary/shaders/s_dual_master_dis_fres_ds.tres
+  uid://boye4vnekc52b -> res://VFXStone/shaders/s_master_explosion_advanced_np.tres
+    Replacing with: res://VFX/Shaders/s_master_explosion_advanced_np.tres
+   at: GDRESettings::load_pack_uid_cache (modules\gdsdecomp\utility\gdre_settings.cpp:2096)
+Loaded 3707 imported files
+Detected Engine Version: 4.7.0
+Detected Bytecode Revision: 4.5.0-stable (ebc36a7)
+Verified 7503 files, no errors detected!
+Extracted 7503 files, no errors detected!
+Loading resource strings, this may take a while!!
+ERROR: Parse JSON failed. Error at line 0: Expected 'true', 'false', or 'null', got 'dialog'
+   at: JSON::parse_string (core\io\json.cpp:629)
+ERROR: Parse JSON failed. Error at line 0: Expected 'true', 'false', or 'null', got 'id'
+   at: JSON::parse_string (core\io\json.cpp:629)
+Resource strings loaded!
+Saved project config.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     142
+Scripts not decompiled:                 0
+Imported resources for export session:  3707
+Successfully converted:                 3707
+Lossy:                                  1110
+Rewrote metadata:                       2865
+Non-importable conversions:             7
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+------
+
+The following files were converted and saved to a non-original path, but did not have their import data rewritten.
+These files will not be re-imported when loading the project.
+res://.godot/imported/Polyester Masa Lambası-Free3D.fbx-2072ddc93e1f842bc9ca4e08a14d113b.scn to res://.assets/art/Textures/28-polyester-masa-lambas/Polyester Masa Lambası-Free3D.glb
+res://.godot/imported/VenetianBlind.fbx-ab65f4d24ad74c980517207f3babc8b5.scn to res://.assets/art/Textures/k6sls4z9suf4-VenetianBlind/VenetianBlind.glb
+res://.godot/imported/table.blend-8ea422493814d821fa4c9829e7c544cd.scn to res://.assets/art/Textures/table.glb
+res://.godot/imported/CottageFBX.fbx-10aef42bf1b64547a8c2ff6f4a8b072a.scn to res://.assets/art/city/Cottage Autodesk FBX/CottageFBX.glb
+res://.godot/imported/Street environment_V01.FBX-c9fcc8875c5140347cbd3786e2d7ce74.scn to res://.assets/art/city/city grande/Street environment_V01.glb
+res://.godot/imported/tripo_convert_1757d04c-609c-4097-92e4-ce5cb8e5e5ed.fbx-ca95450b0723da6deade0abebe1ef8f6.scn to res://.assets/art/secretary/girl/OUTFIT1MIXAMO/tripo_convert_1757d04c-609c-4097-92e4-ce5cb8e5e5ed.glb
+res://language/stardew_keys.en.translation to res://.assets/language/stardew_keys.csv
+
+
+
+---------------------------------IMPORTANT NOTES----------------------------------
+
+
+Translation Export Incomplete:
+Could not recover 74/164 keys for res://language/stardew_keys.csv
+Some locales are out of sync and won't have correct messages in the csv file: es
+Too inaccurate, saved stardew_keys.csv to res://.assets/language/stardew_keys.csv
+
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 4.7.0 to edit the project.
+
+*******************************************************************************
+
