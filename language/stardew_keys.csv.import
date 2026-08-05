@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://2mvuq1qw2k07"
+
+[deps]
+
+files=["res://language/stardew_keys.en.translation", "res://language/stardew_keys.es.translation", "res://language/stardew_keys.ja.translation", "res://language/stardew_keys.ko.translation", "res://language/stardew_keys.pt_BR.translation", "res://language/stardew_keys.ru.translation", "res://language/stardew_keys.zh_CN.translation"]
+
+source_file="res://language/stardew_keys.csv"
+dest_files=["res://language/stardew_keys.en.translation", "res://language/stardew_keys.es.translation", "res://language/stardew_keys.ja.translation", "res://language/stardew_keys.ko.translation", "res://language/stardew_keys.pt_BR.translation", "res://language/stardew_keys.ru.translation", "res://language/stardew_keys.zh_CN.translation"]
+
+[params]
+
+compress=true
+delimiter=0
